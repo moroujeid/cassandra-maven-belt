@@ -1,0 +1,8 @@
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/repository/ExampleTableRepository.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/controller/ExampleTableController.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/entity/ExampleTable.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/security/SpringSecurityConfig.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/service/impl/ExampleTableServiceImp.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/SpringBootCassandraApplication.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/dto/ExampleTableDTO.java
+/home/ubuntu/cassandra-maven-belt/src/main/java/com/devops/service/ExampleTableService.java
