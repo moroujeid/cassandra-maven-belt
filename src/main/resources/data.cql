@@ -14,35 +14,6 @@ INSERT INTO spring_boot_cassandra.example_table
 text_field_2,
 int_field_1,
 int_field_2)
-VALUES ('carya', 'Cohort-1', 460,510);
-
-INSERT INTO spring_boot_cassandra.example_table
-(text_field_1,
-text_field_2,
-int_field_1,
-int_field_2)
-VALUES ('<your-username>', '<Your-Cohort>', <your-belt1-marks>,<your-belt2-marks>);
+VALUES ('Morouj', 'Cohort-2', 380,502);
 
 
-INSERT INTO spring_boot_cassandra.example_table
-(text_field_1,
-text_field_2,
-int_field_1,
-int_field_2)
-VALUES ('belt1', 'DevOps essentials', 630,200);
-
-
-INSERT INTO spring_boot_cassandra.example_table
-(text_field_1,
-text_field_2,
-int_field_1,
-int_field_2)
-VALUES ('belt2', 'DevOps Docker k8s', 500,240);
-
-
-INSERT INTO spring_boot_cassandra.example_table
-(text_field_1,
-text_field_2,
-int_field_1,
-int_field_2)
-VALUES ('belt3', 'DevOps Build tool distributed systems', 500,499);
